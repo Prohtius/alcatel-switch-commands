@@ -9,13 +9,13 @@
 <details>
     <summary>Save Commands</summary>
     
-### Pre ver. 8
+### Pre ver. 8 (OS6450 models)
 ```
 copy running-config working
 copy working certified
 write memory flash-synchro
 ```
-### Ver 8+
+### Ver 8+ (OS6900, OS6360, OS6560, OS6860 models)
 ```
 copy running certified
 copy certified working

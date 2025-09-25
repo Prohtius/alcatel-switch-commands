@@ -1,5 +1,6 @@
 > [!Tip]
 > Use `show system` to confirm iOS version
+> ![Show System Command](imgs/show_system_details.png)
 
 # Pre ver. 8 (OS6400 models)
 ```

@@ -1,7 +1,5 @@
-# Confirm iOS version
-```
-show system
-```
+> [!Tip]
+> Use `show system` to confirm iOS version
 
 # Pre ver. 8 (OS6400 models)
 ```
